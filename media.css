@@ -127,4 +127,7 @@
         background-color: #ca880e;
     
     }
+    .images img{
+        width: 15vh;
+    }
 }
