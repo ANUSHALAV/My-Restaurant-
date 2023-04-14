@@ -49,10 +49,6 @@ p {
     justify-content: space-between;
     align-items: center;
 }
-.top-section nav{
-    position:sticky;
-    top:0;
-}
 
 .nav-links ul {
     list-style: none;
