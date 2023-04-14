@@ -1,3 +1,4 @@
+/* for 1200px menas large devices */
 @media screen and (max-width:1200px){
     h1{
         font-size:4.2rem;
@@ -55,8 +56,7 @@
 
 
 
-
-
+/* for 767px means mediam devices */
 @media screen and (max-width:767px){
     h1{
         font-size:3.5rem;
@@ -84,6 +84,7 @@
 
 
 
+/* for 547px means small devices */
 @media screen and (max-width:547px){
     h1{
         font-size:3rem;
@@ -100,9 +101,6 @@
     .verity-section {
         padding: 10px;
     }
-    /* .images img{
-        width: 20vh;
-    } */
     .contect-section .contect-form {
         padding: 10px 5%;
     }
