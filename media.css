@@ -112,22 +112,37 @@
 
 /*for 400px means very small device */
 @media screen and (max-width:400px){
+    .container{
+        margin-inline:10px;
+    }
     h1{
         font-size:2.3rem;
     }
     p{
         font-size:1rem;
     }
+    .discription-part {
+        padding: 100px 25px;
+    }
+    .left-heading {
+        width:100%;
+        text-align: justify;
+    }
+    .main-heading{
+        text-align: center;
+    }
+
     .who-we-are {
         padding-inline:0px;
     }
     .left-section {
         width: 80%;
-        padding: 30px 15px;
+        padding: 30px 20px;
         background-color: #ca880e;
     
     }
     .images img{
-        width: 10vh;
+        width: 15vh;
     }
+
 }
