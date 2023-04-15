@@ -141,6 +141,10 @@
         background-color: #ca880e;
     
     }
+    .left-heading .paragraph p {
+        color: white;
+        text-align: justify;
+    }
     .images img{
         width: 15vh;
     }
